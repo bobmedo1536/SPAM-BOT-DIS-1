@@ -1,0 +1,17 @@
+{
+  "name": "spam",
+  "version": "2.1.0",
+  "description": "Kero",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "node-opus": "^0.2.7",
+    "request": "^2.85.0"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
